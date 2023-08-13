@@ -1,9 +1,9 @@
 # Hi! 👋 I'm Aldi.
 
-I am a Data Scientist and Machine Learning enthusiast. I am passionate about technologies and love to learn new things.
+I am passionate about learning technology, especially web development and machine learning development. One thing, I love to learn new things.
 
 - 🔭 I’m currently working as Assistant Lecturer at STT Nurul Fikri
-- 🌱 I’m currently learning about machiine learning / deep learning
+- 🌱 I’m currently learning about machine learning / deep learning
 - 💬 Feel free to ask me about machine learning
 - 📫 How to reach me: aldiakbar373@gmail.com
 - ⚡ Fun fact: Fans of Manchester United 
